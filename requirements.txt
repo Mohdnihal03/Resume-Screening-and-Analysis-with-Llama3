@@ -1,11 +1,6 @@
-pandas
-numpy
-plotly
-streamlit
-pandasai
-pyYAML
-langchain_google_genai
-google-generativeai
-python-dotenv
-xlrd
-openpyxl
+streamlit==1.20.0
+langchain==0.0.1
+langchain-community==0.0.1
+pytesseract==0.3.10
+pdf2image==1.16.3
+pandas==2.0.3
