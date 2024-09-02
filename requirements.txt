@@ -1,0 +1,11 @@
+pandas
+numpy
+plotly
+streamlit
+pandasai
+pyYAML
+langchain_google_genai
+google-generativeai
+python-dotenv
+xlrd
+openpyxl
