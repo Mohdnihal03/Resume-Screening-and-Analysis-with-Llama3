@@ -1,6 +1,6 @@
-Resume screening and evaluation using Llama3 spun up on a local network.
+# Resume screening and evaluation using Llama3 spun up on a local network.
 
-### Run on the computer
+## Run on the computer
 
 1. Clone the repo
 ```bash
@@ -15,7 +15,7 @@ python3 -m install -r requirements.txt
 streamlit run app.py
 ```
 
-### Run with docker 
+## Run with docker 
 
 1. Build the image
 ```bash
